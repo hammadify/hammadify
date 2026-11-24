@@ -1,6 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0284c7&height=230&section=header&text=Muhammad%20Hammad&fontSize=46&fontColor=f8fafc&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20WordPress%20%26%20Shopify%20Architect%20%E2%80%A2%20AI%20Builder&descSize=16&descAlignY=58&descColor=38bdf8&animation=fadeIn" width="100%" alt="Muhammad Hammad Header Banner" />
-</div>
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║     ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗ ██╗███████╗██╗   ██╗   ║
+║     ██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗██║██╔════╝╚██╗ ██╔╝   ║
+║     ███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║██║█████╗   ╚████╔╝    ║
+║     ██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║██║██╔══╝    ╚██╔╝     ║
+║     ██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝██║██║        ██║      ║
+║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝        ╚═╝      ║
+║                                                                                  ║
+║     MUHAMMAD HAMMAD  //  FULL-STACK DEVELOPER • ECOMMERCE • AI-POWERED BUILDER   ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 
 <div align="center">
   <a href="https://github.com/hammadify">

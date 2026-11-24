@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/1hammad-ali">
+  <a href="https://github.com/hammadify">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=40&lines=Building+Modern+Web+Apps%2C+eCommerce+%26+Business+Systems;WordPress%2C+Elementor%2C+Shopify%2C+Flutter+%26+Full-Stack+Solutions;Accelerating+Software+Engineering+with+AI-Powered+Workflows" alt="Animated Typing Headline" />
   </a>
 </div>
@@ -13,11 +13,11 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/1hammad-ali">
-    <img src="https://komarev.com/ghpvc/?username=1hammad-ali&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/hammadify">
+    <img src="https://komarev.com/ghpvc/?username=hammadify&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views" />
   </a>
-  <a href="https://github.com/1hammad-ali?tab=followers">
-    <img src="https://img.shields.io/github/followers/1hammad-ali?label=FOLLOWERS&style=for-the-badge&color=6366f1&logo=github&logoColor=white" alt="GitHub Followers" />
+  <a href="https://github.com/hammadify?tab=followers">
+    <img src="https://img.shields.io/github/followers/hammadify?label=FOLLOWERS&style=for-the-badge&color=6366f1&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
   <a href="#connect-with-me">
     <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-10b981?style=for-the-badge" alt="Open to Collaborate" />
@@ -38,7 +38,7 @@
   <tr>
     <td width="66%" valign="top">
       <p>
-        I am <strong>Muhammad Hammad</strong> (<code>@hammadify</code> / <code>@1hammad-ali</code>), a developer focused on turning real-world business problems into fast, scalable, and user-centric digital products.
+        I am <strong>Muhammad Hammad</strong> (<code>@hammadify</code>), a developer focused on turning real-world business problems into fast, scalable, and user-centric digital products.
       </p>
       <ul>
         <li><strong>Web &amp; eCommerce:</strong> Experienced in building business websites and stores using <strong>WordPress</strong>, <strong>Elementor</strong>, and <strong>Shopify</strong>.</li>
@@ -189,31 +189,31 @@
     <td><strong>Document Management Portal</strong></td>
     <td>Centralized file tracking, role-based permissions, and digital record workflows.</td>
     <td><code>React</code> <code>Node.js</code> <code>SQL</code></td>
-    <td align="center"><a href="https://github.com/1hammad-ali?tab=repositories">Placeholder</a></td>
+    <td align="center"><a href="https://github.com/hammadify?tab=repositories">Placeholder</a></td>
   </tr>
   <tr>
     <td><strong>Branch Stock Transfer CRM</strong></td>
     <td>Multi-branch inventory dispatch, transfer approvals, and operational tracking.</td>
     <td><code>React</code> <code>Node.js</code> <code>MySQL</code></td>
-    <td align="center"><a href="https://github.com/1hammad-ali?tab=repositories">Placeholder</a></td>
+    <td align="center"><a href="https://github.com/hammadify?tab=repositories">Placeholder</a></td>
   </tr>
   <tr>
     <td><strong>ERP &amp; Inventory Systems</strong></td>
     <td>Warehouse stock monitoring, supplier records, and executive analytics dashboards.</td>
     <td><code>Next.js</code> <code>Express</code> <code>DB</code></td>
-    <td align="center"><a href="https://github.com/1hammad-ali?tab=repositories">Placeholder</a></td>
+    <td align="center"><a href="https://github.com/hammadify?tab=repositories">Placeholder</a></td>
   </tr>
   <tr>
     <td><strong>Flutter Digital Signage App</strong></td>
     <td>Android display app for scheduled media playback and remote screen updates.</td>
     <td><code>Dart</code> <code>Flutter</code> <code>APIs</code></td>
-    <td align="center"><a href="https://github.com/1hammad-ali?tab=repositories">Placeholder</a></td>
+    <td align="center"><a href="https://github.com/hammadify?tab=repositories">Placeholder</a></td>
   </tr>
   <tr>
     <td><strong>WordPress &amp; Shopify Builds</strong></td>
     <td>Custom corporate sites, Elementor Pro layouts, and tailored eCommerce stores.</td>
     <td><code>WordPress</code> <code>Shopify</code></td>
-    <td align="center"><a href="https://github.com/1hammad-ali?tab=repositories">Placeholder</a></td>
+    <td align="center"><a href="https://github.com/hammadify?tab=repositories">Placeholder</a></td>
   </tr>
 </table>
 
@@ -236,20 +236,20 @@
 <h2>GitHub Analytics</h2>
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=1hammad-ali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0" alt="GitHub Stats Card" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hammad-ali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages Card" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=hammadify&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0" alt="GitHub Stats Card" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadify&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages Card" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=1hammad-ali&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=06b6d4&currStreakLabel=38bdf8" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=hammadify&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=06b6d4&currStreakLabel=38bdf8" alt="GitHub Streak Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1hammad-ali&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=6366f1&point=22d3ee&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadify&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=6366f1&point=22d3ee&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
 </div>
 
 <br />
@@ -263,8 +263,8 @@
 <h2 id="connect-with-me">Connect With Me</h2>
 
 <div align="center">
-  <a href="https://github.com/1hammad-ali">
-    <img src="https://img.shields.io/badge/GitHub-1hammad--ali-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/hammadify">
+    <img src="https://img.shields.io/badge/GitHub-hammadify-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin-username">
     <img src="https://img.shields.io/badge/LinkedIn-Profile_Placeholder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

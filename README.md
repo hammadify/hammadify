@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:1e1b4b,100:0891b2&height=210&section=header&text=Hey%2C%20I%27m%20Muhammad%20Hammad&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Creative%20Developer%20%7C%20WordPress%20%26%20Shopify%20Specialist%20%7C%20AI-Powered%20Builder&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Muhammad Hammad Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:1e1b4b,100:0891b2&height=210&section=header&text=Hey%2C%20I%27m%20Muhammad%20Hammad&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Creative%20Developer%20-%20WordPress%20and%20Shopify%20Specialist%20-%20AI%20Builder&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Muhammad Hammad Hero Banner" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/followers/hammadify?label=FOLLOWERS&style=for-the-badge&color=6366f1&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
   <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-10b981?style=for-the-badge" alt="Open to Collaborate" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-10b981?style=for-the-badge" alt="Open to Collaborate" />
   </a>
 </div>
 
@@ -58,7 +58,7 @@
 <h2>Tech Stack &amp; AI Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,wordpress,shopify,dart,flutter,androidstudio,git,github,vscode,postman,linux,ubuntu&perline=11" alt="Technology Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,wordpress,php,dart,flutter,androidstudio,git,github,vscode,postman,linux,ubuntu&perline=11" alt="Technology Icons" />
 </p>
 
 <table>
